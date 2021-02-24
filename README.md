@@ -60,7 +60,7 @@ beginners.
   used to emulate USB devices, and it can be used as an intercepting proxy
   for USB. Bonus: it's all Python.
 
-  - https://www.youtube.com/watch?v=K7Glcep
+  - https://www.youtube.com/watch?v=K7Glcep_iGc
   - https://github.com/pyusb/pyusb/blob/master/docs/tutorial.rst
   - https://media.ccc.de/v/SHA2017-221-facedancer_2_0
   - https://www.devalias.net/devalias/2018/05/13/usb-reverse-engineering-down-the-rabbit-hole/
