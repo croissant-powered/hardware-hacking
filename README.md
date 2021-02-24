@@ -85,6 +85,11 @@ beginners.
   - How to write and flash firmware
   - ...
     
+  Then from there I would recommend to practice by looking at whatever device you
+  can get your hands on. Routers are typically a good target because (1) they're
+  fun, (2) you can get a copy of your home model for cheap off eBay, and (3)
+  somebody probably already put instructions online on how to do it.
+    
 ## Tools
 
   - Precision screwdriver set. Preferably one with a hole in the handle (to use as a pivot for stubborn screws) and a magnetic tip.
