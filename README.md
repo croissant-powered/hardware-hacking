@@ -1,6 +1,6 @@
 # Hardware hacking
 
-Resources related to hardware/IoT hacking. Securited-oriented and targeted at
+Resources related to hardware/IoT hacking. Security-oriented and targeted at
 beginners.
 
 ## Bookmarks
