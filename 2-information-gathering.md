@@ -29,7 +29,7 @@ information about the device:
     help. If you struggle finding information about the device, try with
     [Baidu](https://baidu.com) or use a search engine aggregator like
     [searx](https://searx.space).
-  - **Specialised websites**, like
+  - **Specialized websites**, like
     [DeviWiki](https://deviwiki.com) or [OpenWrt](https://openwrt.com).
   - [**fccid.io**](https://fccid.io), which provides internal images of the board
     and manuals. Every device sold in the US that uses electronic emissions will
@@ -40,13 +40,14 @@ information about the device:
   - **Prior art**, if the device is popular it is likely to be already well
     documented in blogs or forums.
 
-## Datasheets
-
 A thorough methodology would be to fill a table with all part numbers found in
 the device, and then retrieve the datasheet for every one of them to understand
 what it does. With experience you will get familiar with manufacturer brands
 and even recognize parts that you see reused across different devices. Usually it
-is also possible to quickly identify the role of common components (such as flash or EEPROM) at first glance.
+is also possible to quickly identify the role of common components (such as flash
+or EEPROM) at first glance.
+
+## Datasheets
 
 Datasheets are a mine of information because they contain every detail you need to know about the component, in particular:
 
