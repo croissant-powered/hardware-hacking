@@ -1,5 +1,11 @@
 # Information gathering
 
+One of the primary objectives is to obtain a copy of the firmware. To do so it
+is necessary to gather information about the targeted device to understand where
+is the non-volatile storage and if there are any debugging interfaces available.
+
+## From the device
+
 Information is initially gathered from the device itself:
 
   - **External labels**, which may provide the manufacturer name, model number,
@@ -12,6 +18,8 @@ Information is initially gathered from the device itself:
     pins or groups of contacts that are not wired to anything, but you can
     infer the purpose if it corresponds to a common pinout (e.g. an isolated
     group of 4 pins is likely to be a UART interface).
+
+## Online
 
 Online sources can be looked up to retrieve datasheets or obtain further
 information about the device:
@@ -31,6 +39,8 @@ information about the device:
     and cannot disassemble it to look into it for whatever reason.
   - **Prior art**, if the device is popular it is likely to be already well
     documented in blogs or forums.
+
+## Datasheets
 
 A thorough methodology would be to fill a table with all part numbers found in
 the device, and then retrieve the datasheet for every one of them to understand
@@ -55,9 +65,7 @@ Datasheets are a mine of information because they contain every detail you need 
   - For more complex integrated circuits like MCUs or CPUs, the datasheet will
     also provide further details like the **physical address space layout**.
     
-One of the primary objectives will be to obtain a copy of the firmware, which is
-why it is interesting to know what integrated circuits do and if it has any
-non-volatile storage.
+## Obfuscation
     
 Every so often, you will find that manufacturers scrape off or cover the
 integrated circuit in a blob of epoxy to make part numbers unreadable and make
