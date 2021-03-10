@@ -38,6 +38,7 @@ TODO
   - Signal traces
   - Routing
   - Test points
+  - Vias
   - Silkscreen printing
   
 ### Buses
