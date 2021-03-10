@@ -98,7 +98,8 @@ somebody probably already put instructions online on how to do it.
   - [Bus Pirate v3](http://dangerousprototypes.com/docs/Bus_Pirate). This is a
     popular tool for interfacing common hardware buses with your laptop. Great
     value.
-  - Soldering tools.
+  - Soldering tools. See
+    [soldering](/croissant-powered/hardware-hacking/soldering.md).
   - Logic analyzer. Preferably one supported by
     [sigrok](https://sigrok.org/wiki/Supported_hardware#Logic_analyzers). Saleae
     has published some interesting
