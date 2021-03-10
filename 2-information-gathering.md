@@ -6,8 +6,8 @@ Information is initially gathered from the device itself:
     revision, and manufacturing date.
   - **Silkscreen printing**, which may provide the manufacturer name, model
     number,revision, and manufacturing date.
-  - **Part numbers** normally printed on all integrated circuits unless they
-    have been scraped off by the manufacturer.
+  - **Part numbers**, which are normally printed on all integrated circuits
+    unless they have been scraped off by the manufacturer.
   - **Common pinouts**, often your board will have undocumented header
     pins or groups of contacts that are not wired to anything, but you can
     infer the purpose if it corresponds to a common pinout (e.g. an isolated
@@ -16,19 +16,19 @@ Information is initially gathered from the device itself:
 Online sources can be looked up to retrieve datasheets or obtain further
 information about the device:
 
-  - **Search engines** by searching for the model or part number you will usuall
-    get the datasheet of your device in one of the top results. `type:pdf` can
+  - **Search engines**, by searching for the model or part number you will
+    usually find the datasheet. `type:pdf` can
     help. If you struggle finding information about the device, try with
     [Baidu](https://baidu.com) or use a search engine aggregator like
     [searx](https://searx.space).
   - **Specialised websites**, like
-    [DeviWiki](https://deviwiki.com) or [OpenWRt](https://openwrt.com).
-  - [**fccid.io**](https://fccid.io) can provide internal images of the board
+    [DeviWiki](https://deviwiki.com) or [OpenWrt](https://openwrt.com).
+  - [**fccid.io**](https://fccid.io), which provides internal images of the board
     and manuals. Every device sold in the US that uses electronic emissions will
     have an entry in the FCC. Pictures are often good enough to be able to read
-    part number off integrated circuits, as such it can be an outstanding source
-    of information if you are working on an uncommon device and cannot
-    disassemble it to look into it for whatever reason.
+    part number off integrated circuits, consequently it can be an
+    outstanding source of information if you are working on an uncommon device
+    and cannot disassemble it to look into it for whatever reason.
   - **Prior art**, if the device is popular it is likely to be already well
     documented in blogs or forums.
 
