@@ -22,6 +22,7 @@ If soldering does not work it always boils down to one of:
   the heat), in this case try to preheat the board from below or with a hot air
   gun, but do *not* try to increase the working temperature.
   - **Not enough flux**. Always use flux, it doesn't harm.
+  See [When to use Flux ?](https://www.youtube.com/watch?v=tfIwHuGzUEk).
   - **Oxides**. Try to freshen up the contact by removing the oxide layer with
   steel wool. Flux can also help.
   
