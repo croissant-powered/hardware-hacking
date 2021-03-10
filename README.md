@@ -99,7 +99,7 @@ somebody probably already put instructions online on how to do it.
     popular tool for interfacing common hardware buses with your laptop. Great
     value.
   - Soldering tools. See
-    [soldering](/croissant-powered/hardware-hacking/soldering.md).
+    [soldering](/soldering.md).
   - Logic analyzer. Preferably one supported by
     [sigrok](https://sigrok.org/wiki/Supported_hardware#Logic_analyzers). Saleae
     has published some interesting
