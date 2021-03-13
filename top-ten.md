@@ -7,7 +7,7 @@
   5. Poor access controls (passwords, ACLs, services running as root)
   6. Firmware is not signed or verified
   7. Hardcoded secrets
-  8. Poor TLS
+  8. Poor TLS (certificates are not verified)
   9. Poor RNG or cryptographic services
   10. No toolchain hardening
 
