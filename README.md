@@ -38,8 +38,8 @@ up `gdb` to execute firmware in a step by step fashion.
 ### UART (also RS232)
 
 A serial port, typically offering access to a boot or root console. The Bus
-Pirate can be used here again (watch out input voltage though, a logic level
-shifter may be required).
+Pirate can be used here again (watch out input voltage though, a bidirectional
+logic level shifter may be required).
     
   - [#02 - How to Find the UART Interface - Hardware Hacking Tutorial](https://www.youtube.com/watch?v=6_Q663YkyXE)
   - [Hardware Hacking 101: Getting a root shell via UART (River Loop Security)](https://www.riverloopsecurity.com/blog/2020/01/hw-101-uart/)
