@@ -110,3 +110,6 @@ online on how to do it.
     high sampling frequency (200 MHz is lots already) and a wide voltage input
     range (convenient because some protocols like RS232 can be relatively high
     voltage). I currently use a Kingst LA2016.
+  - A rotary tool/"dremel" is often convenient to have. I currently use a Proxxon
+    Micromot 50/E (Proxxon > Dremel in terms of quality). I've also heard good
+    feedback about die grinders but never used one myself.
