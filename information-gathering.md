@@ -4,6 +4,8 @@ One of the primary objectives is to obtain a copy of the firmware. To do so it
 is necessary to gather information about the targeted device to understand where
 is the non-volatile storage and if there are any debugging interfaces available.
 
+Also see [#01 - Identifying Components - Hardware Hacking Tutorial](https://www.youtube.com/watch?v=LSQf3iuluYo).
+
 ## From the device
 
 Information is initially gathered from the device itself:
@@ -36,7 +38,9 @@ information about the device:
     have an entry in the FCC. Pictures are often good enough to be able to read
     part number off integrated circuits, consequently it can be an
     outstanding source of information if you are working on an uncommon device
-    and cannot disassemble it to look into it for whatever reason.
+    and cannot disassemble it to look into it for whatever reason. The
+    unofficial [fcc.io](https://fcc.io) website can be used to search the FCC
+    database more conveniently.
   - **Prior art**, if the device is popular it is likely to be already well
     documented in blogs or forums.
 
