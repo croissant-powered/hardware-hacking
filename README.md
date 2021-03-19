@@ -5,6 +5,10 @@ beginners.
 
 ## Bookmarks
 
+TODO: Include the
+[Embedded Analysis guide](https://github.com/cyphunk/JTAGenum/wiki/Embedded-Analysis)
+from the JTAGenum project.
+
 ### Forums
 
   - [Hackaday](https://hackaday.com)
